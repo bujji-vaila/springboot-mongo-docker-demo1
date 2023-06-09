@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: Student
+      host: bujjiMongoDBContainer
+      port: 27017
